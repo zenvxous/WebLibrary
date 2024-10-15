@@ -1,0 +1,15 @@
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/bin/Debug/net8.0/WebLibrary.Application.deps.json
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/bin/Debug/net8.0/WebLibrary.Application.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/bin/Debug/net8.0/WebLibrary.Application.pdb
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/bin/Debug/net8.0/WebLibrary.Core.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/bin/Debug/net8.0/WebLibrary.Core.pdb
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/obj/Debug/net8.0/WebLibrary.Application.csproj.AssemblyReference.cache
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/obj/Debug/net8.0/WebLibrary.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/obj/Debug/net8.0/WebLibrary.Application.AssemblyInfoInputs.cache
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/obj/Debug/net8.0/WebLibrary.Application.AssemblyInfo.cs
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/obj/Debug/net8.0/WebLibrary.Application.csproj.CoreCompileInputs.cache
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/obj/Debug/net8.0/WebLibra.9C09997A.Up2Date
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/obj/Debug/net8.0/WebLibrary.Application.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/obj/Debug/net8.0/refint/WebLibrary.Application.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/obj/Debug/net8.0/WebLibrary.Application.pdb
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/obj/Debug/net8.0/ref/WebLibrary.Application.dll

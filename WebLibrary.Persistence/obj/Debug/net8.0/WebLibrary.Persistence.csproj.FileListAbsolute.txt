@@ -1,0 +1,15 @@
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/bin/Debug/net8.0/WebLibrary.Persistence.deps.json
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/bin/Debug/net8.0/WebLibrary.Persistence.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/bin/Debug/net8.0/WebLibrary.Persistence.pdb
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/bin/Debug/net8.0/WebLibrary.Core.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/bin/Debug/net8.0/WebLibrary.Core.pdb
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/obj/Debug/net8.0/WebLibrary.Persistence.csproj.AssemblyReference.cache
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/obj/Debug/net8.0/WebLibrary.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/obj/Debug/net8.0/WebLibrary.Persistence.AssemblyInfoInputs.cache
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/obj/Debug/net8.0/WebLibrary.Persistence.AssemblyInfo.cs
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/obj/Debug/net8.0/WebLibrary.Persistence.csproj.CoreCompileInputs.cache
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/obj/Debug/net8.0/WebLibra.6E5381AD.Up2Date
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/obj/Debug/net8.0/WebLibrary.Persistence.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/obj/Debug/net8.0/refint/WebLibrary.Persistence.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/obj/Debug/net8.0/WebLibrary.Persistence.pdb
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Persistence/obj/Debug/net8.0/ref/WebLibrary.Persistence.dll

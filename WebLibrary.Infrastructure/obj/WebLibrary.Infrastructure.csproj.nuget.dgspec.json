@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Infrastructure/WebLibrary.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/WebLibrary.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/WebLibrary.Application.csproj",
+        "projectName": "WebLibrary.Application",
+        "projectPath": "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/WebLibrary.Application.csproj",
+        "packagesPath": "/Users/zenvxous/.nuget/packages/",
+        "outputPath": "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zenvxous/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/WebLibrary.Core.csproj": {
+                "projectPath": "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/WebLibrary.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/WebLibrary.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/WebLibrary.Core.csproj",
+        "projectName": "WebLibrary.Core",
+        "projectPath": "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/WebLibrary.Core.csproj",
+        "packagesPath": "/Users/zenvxous/.nuget/packages/",
+        "outputPath": "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zenvxous/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Infrastructure/WebLibrary.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Infrastructure/WebLibrary.Infrastructure.csproj",
+        "projectName": "WebLibrary.Infrastructure",
+        "projectPath": "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Infrastructure/WebLibrary.Infrastructure.csproj",
+        "packagesPath": "/Users/zenvxous/.nuget/packages/",
+        "outputPath": "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zenvxous/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/WebLibrary.Application.csproj": {
+                "projectPath": "/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Application/WebLibrary.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/bin/Debug/net8.0/WebLibrary.Core.deps.json
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/bin/Debug/net8.0/WebLibrary.Core.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/bin/Debug/net8.0/WebLibrary.Core.pdb
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/obj/Debug/net8.0/WebLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/obj/Debug/net8.0/WebLibrary.Core.AssemblyInfoInputs.cache
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/obj/Debug/net8.0/WebLibrary.Core.AssemblyInfo.cs
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/obj/Debug/net8.0/WebLibrary.Core.csproj.CoreCompileInputs.cache
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/obj/Debug/net8.0/WebLibrary.Core.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/obj/Debug/net8.0/refint/WebLibrary.Core.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/obj/Debug/net8.0/WebLibrary.Core.pdb
+/Users/zenvxous/Programming/RiderProjects/Test Projects/Web Library/WebLibrary.Core/obj/Debug/net8.0/ref/WebLibrary.Core.dll
